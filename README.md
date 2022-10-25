@@ -32,7 +32,7 @@ The data is now ready to be scaled and split into training and testing datasets 
 
 - Compiling, Training, and Evaluating the Model
     - The first model created had 2 hidden layers. The first layer had **80** neurons and used the activation function "**relu**". The second layer had **30** neurons and also used the activation function **relu**. The output layer used the **sigmoid** function since we are creating a binary classifier. 
-    - The first model did not achieve the target performance of 75% accuracy. A total accuracy of 72.8% was achieved. There was an additional attempt to optimize and reach 75% accuracy, but was overall unsuccessful reaching only 72.7% accuracy.
+    - The first model did not achieve the target performance of 75% accuracy. A total accuracy of 72.9% was achieved. There was an additional attempt to optimize and reach 75% accuracy, but was overall unsuccessful reaching only 72.8% accuracy.
     - To optimize the model, additional columns were dropped in the preprocessing phase. Columns `STATUS` and `SPECIAL_CONSIDERATIONS` had very uneven data distributions between the binary values. 
 
     ![dropped](/Resources/dropped.PNG)
