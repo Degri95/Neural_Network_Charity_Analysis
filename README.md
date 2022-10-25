@@ -41,6 +41,8 @@ The data is now ready to be scaled and split into training and testing datasets 
 
     ![optimize](/Resources/optimize.PNG)
 
-    The optimization overall failed and performed worse than the original.
+    The optimization failed, and performed worse than the original.
 
 ## Summary
+
+The base model and the attempted optimized model did not achieve the target of 75% accuracy. A recommendation to improve accuracy would be to use a Random Forest Classifier. Feature importances could be identified and additional preproccessing could be applied. The Random Forest Classifier also supports continuous and categorical features, and has a very low chance to overfit the model.
