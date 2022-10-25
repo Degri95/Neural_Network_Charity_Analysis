@@ -3,7 +3,7 @@ Using machine learning and neural networks to create a binary classifier to pred
 
 ## Overview
 
-In this project a binary classifier is created to help predict whether applicants who apply for funding though the company AlphabetSoup will be successful. AlphabetSoup provides donations to companies who's goals are to protect the enviroment, improve peoples well being, and unify the world.
+In this project a binary classifier is created to help predict whether applicants who apply for funding through the company AlphabetSoup will be successful. AlphabetSoup provides donations to companies who's goals are to protect the enviroment, improve peoples well being, and unify the world.
 
 ## Results
 
